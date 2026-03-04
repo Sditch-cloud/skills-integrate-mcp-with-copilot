@@ -69,11 +69,17 @@ activities = {
         "max_participants": 10,
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
     },
-    "Debate Team": {
+	"Debate Team": {
         "description": "Develop public speaking and argumentation skills",
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "GitHub Skills": {
+        "description": "Learn practical coding and collaboration skills with GitHub. Part of the GitHub Certifications program. Available for all students.",
+        "schedule": "Wednesdays, 5:00 PM - 6:00 PM",
+        "max_participants": 30,
+        "participants": []
     }
 }
 
